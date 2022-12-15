@@ -12,7 +12,7 @@
       "deviceName": "slave1",
       "initializeParams": {
         "diskSizeGb": "10",
-        "diskType": "projects/spark-371009/zones/europe-west1-b/diskTypes/pd-balanced",
+        "diskType": "projects/cloud-computing-2022-368612/zones/europe-west1-b/diskTypes/pd-balanced",
         "labels": {},
         "sourceImage": "projects/debian-cloud/global/images/debian-11-bullseye-v20221102"
       },
