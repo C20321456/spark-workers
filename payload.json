@@ -79,7 +79,10 @@
     "enableVtpm": true
   },
   "tags": {
-    "items": []
+    "items": [
+      "http-server",
+      "https-server"
+    ]
   },
   "zone": "projects/cloud-computing-2022-368612/zones/europe-west1-b"
 }
