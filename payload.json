@@ -48,6 +48,9 @@
       "subnetwork": "projects/cloud-computing-2022-368612/regions/europe-west1/subnetworks/default"
     }
   ],
+  "params": {
+    "resourceManagerTags": {}
+  },
   "reservationAffinity": {
     "consumeReservationType": "ANY_RESERVATION"
   },
