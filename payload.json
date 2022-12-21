@@ -56,7 +56,7 @@
   },
   "scheduling": {
     "automaticRestart": false,
-    "instanceTerminationAction": "STOP",
+    "instanceTerminationAction": "DELETE",
     "onHostMaintenance": "TERMINATE",
     "provisioningModel": "SPOT"
   },
